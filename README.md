@@ -26,7 +26,7 @@
 
 <h3 align="left">Certifications:</h3>
 <p>
-  <a href="https://drive.google.com/file/d/1Ps-uEn_vmz1q12G0SvP2m5hP-f7JxGyI/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="./badges/Cisco Meraki CMNO.png" alt="CMNO" width="40" height="40"/> </a> 
+  <a href="https://drive.google.com/file/d/1Ps-uEn_vmz1q12G0SvP2m5hP-f7JxGyI/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="./images/Meraki.png" alt="CMNO" width="40" height="40"/> </a> 
   <a href="https://drive.google.com/file/d/1pnqM5L-6Dvobv50VNZEe4tKIHfSVPerk/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="./badges/ITIL_badge.png" alt="ITIL" width="40" height="40"/> </a> 
   <a href="https://drive.google.com/file/d/1SZzg2Itwe8mBi34NcwH5rhvyD0Hn5rlJ/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="./badges/NetworkPlus Logo Certified.png" alt="net+" width="40" height="40"/> </a> 
   <a href="https://drive.google.com/file/d/1C-S1nBIFOZTA8LeuZghi0xmqdCQYRoqJ/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="./badges/VCP-DCV.png" alt="VCP-DCV" width="40" height="40"/> </a> 
