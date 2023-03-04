@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://www.linkedin.com/in/jameskasparek/" target="_blank" rel="noreferrer"> <img src=".\images\IMG_0010.jpg" alt="me" width="400" height="400"/> </a> 
+<p align="center"> <a href="https://www.linkedin.com/in/jameskasparek/" target="_blank" rel="noreferrer"> <img src=".\images\me.jpg" alt="me" width="400" height="400"/> </a> 
 <h1 align="center">Hello 👋, I'm James!</h1>
 <h3 align="center">Systems Administrator, PowerShell enthusiast and motorcycle hobbyist.</h3>
 
@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **nekkron [at] gmail [.] com**
 
-- 📄 Know about my experiences [link to resume](link to resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jameskasparek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jameskasparek" height="30" width="40" /></a>
@@ -28,11 +26,11 @@
 
 <h3 align="left">Certifications:</h3>
 <p>
-  <a href="https://drive.google.com/file/d/1Ps-uEn_vmz1q12G0SvP2m5hP-f7JxGyI/view?usp=sharing" target="_blank" rel="noreferrer"> <img src=".\images\Cisco Meraki CMNO.png" alt="CMNO" width="40" height="40"/> </a> 
-  <a href="https://drive.google.com/file/d/1pnqM5L-6Dvobv50VNZEe4tKIHfSVPerk/view?usp=sharing" target="_blank" rel="noreferrer"> <img src=".\images\ITIL_badge.png" alt="ITIL" width="40" height="40"/> </a> 
-  <a href="https://drive.google.com/file/d/1SZzg2Itwe8mBi34NcwH5rhvyD0Hn5rlJ/view?usp=sharing" target="_blank" rel="noreferrer"> <img src=".\images\NetworkPlus Logo Certified.png" alt="net+" width="40" height="40"/> </a> 
-  <a href="https://drive.google.com/file/d/1C-S1nBIFOZTA8LeuZghi0xmqdCQYRoqJ/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="./images/VCP-DCV.png" alt="VCP-DCV" width="40" height="40"/> </a> 
-  <a href="https://www.credly.com/earner/earned/share/14aa89fc-73c1-438a-8a96-d50b8ebef497" target="_blank" rel="noreferrer"> <img src=".\images\microsoft365-security-administrator-associate-600x600.png" alt="M365 Sec" width="40" height="40"/> </a> 
+  <a href="https://drive.google.com/file/d/1Ps-uEn_vmz1q12G0SvP2m5hP-f7JxGyI/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="./badges/Cisco Meraki CMNO.png" alt="CMNO" width="40" height="40"/> </a> 
+  <a href="https://drive.google.com/file/d/1pnqM5L-6Dvobv50VNZEe4tKIHfSVPerk/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="./badges/ITIL_badge.png" alt="ITIL" width="40" height="40"/> </a> 
+  <a href="https://drive.google.com/file/d/1SZzg2Itwe8mBi34NcwH5rhvyD0Hn5rlJ/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="./badges/NetworkPlus Logo Certified.png" alt="net+" width="40" height="40"/> </a> 
+  <a href="https://drive.google.com/file/d/1C-S1nBIFOZTA8LeuZghi0xmqdCQYRoqJ/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="./badges/VCP-DCV.png" alt="VCP-DCV" width="40" height="40"/> </a> 
+  <a href="https://www.credly.com/earner/earned/share/14aa89fc-73c1-438a-8a96-d50b8ebef497" target="_blank" rel="noreferrer"> <img src=".\badges\microsoft365-security-administrator-associate-600x600.png" alt="M365 Sec" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekkron&show_icons=true&locale=en&layout=compact" alt="nekkron" /></p>
