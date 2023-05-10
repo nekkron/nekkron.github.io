@@ -1,13 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WJXBS8RSMZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WJXBS8RSMZ');
-</script>
-
 <p align="center"> <a href="https://www.linkedin.com/in/jameskasparek/" target="_blank" rel="noreferrer"> <img src=".\images\me.jpg" alt="me" width="400" height="400"/> </a> 
 <h1 align="center">Hello 👋, I'm James!</h1>
 <h3 align="center">Systems Administrator, PowerShell enthusiast and motorcycle hobbyist.</h3>
