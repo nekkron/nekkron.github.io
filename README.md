@@ -1,18 +1,18 @@
 <p align="center"> <a href="https://www.linkedin.com/in/jameskasparek/" target="_blank" rel="noreferrer"> <img src=".\images\me.jpg" alt="me" width="400" height="400"/> </a> 
 <h1 align="center">Hello 👋, I'm James!</h1>
-<h3 align="center">Systems Administrator, PowerShell enthusiast and motorcycle hobbyist.</h3>
+<h3 align="center">Jack of all trades, PowerShell enthusiast and motorcycle hobbyist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekkron&label=Profile%20views&color=0e75b6&style=flat" alt="nekkron" /> </p>
 
 - 🔭 I’m currently working on [PowerShell](https://github.com/nekkron/PowerShell)
 
-- 🌱 I’m currently learning **Italian [A2]**
+- 🌱 I’m currently learning **Italian Language [A2]**
 
 - 👨‍💻 My projects are available at [https://github.com/nekkron](https://github.com/nekkron)
 
-- 💬 Ask me about **Motorcycles, the military, and family life abroad**
+- 💬 Ask me about **Motorcycles, my military experience, and family life abroad**
 
-- 📫 How to reach me **nekkron [at] gmail [.] com**
+- 📫 How to reach me **Just bring coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
