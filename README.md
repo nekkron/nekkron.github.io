@@ -4,10 +4,10 @@
 
 <p>
   
-- 🔭 I’m currently working on [PowerShell](https://github.com/nekkron/PowerShell)
-  
-- 👨‍💻 My projects are available at [https://github.com/nekkron](https://github.com/nekkron)
- 
+- 🔭 I’m currently working on <a href="https://github.com/nekkron/PowerShell">PowerShell</a>
+<br>
+- 👨‍💻 My projects are available at <a href="https://github.com/nekkron">my GitHub</a>
+ <br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -26,10 +26,10 @@
 
 <h3 align="left">Certifications:</h3>
 <p>
-  <img src="https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate" width="40" height="40"/></a> 
-  <img src="https://images.credly.com/size/340x340/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png" alt="M365 Sec" width="40" height="40"/></a> 
-  <img src="https://images.credly.com/size/340x340/images/3746480e-1d97-41f8-b27a-0b798d235306/CompTIA_Network_2B.png" alt="ComTIA Network+" width="40" height="40"/></a> 
-  <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="ComTIA Security+ ce" width="40" height="40"/></a> 
+  <img src="https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate" width="40" height="40"/>
+  <img src="https://images.credly.com/size/340x340/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png" alt="M365 Sec" width="40" height="40"/>
+  <img src="https://images.credly.com/size/340x340/images/3746480e-1d97-41f8-b27a-0b798d235306/CompTIA_Network_2B.png" alt="ComTIA Network+" width="40" height="40"/>
+  <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="ComTIA Security+ ce" width="40" height="40"/>
   <img src="./badges/VCP-DCV.png" alt="VMware Certified Professional - Data Center Virtualization (VCP-DCV)" width="40" height="40"/>
   <img src="./badges/ITIL_badge.png" alt="ITIL Foundation 3 (ITIL-F v3" width="40" height="40"/>
   <img src="./images/Meraki.png" alt="Cisco Meraki Network Operator (CMNO)" width="40" height="40"/>
