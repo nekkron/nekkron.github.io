@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/nekkron
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nekkron.site
+  * I am nekkron (https://keybase.io/nekkron) on keybase.
+  * I have a public key with fingerprint 7A80 3DBA 9BEE F40B 37EF  4863 C71E FDF1 A891 4AB1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014ff94f10fea153343bce5136d9b6921342ae597f3c80f2009734c6daccfd98790a",
+      "fingerprint": "7a803dba9beef40b37ef4863c71efdf1a8914ab1",
+      "host": "keybase.io",
+      "key_id": "c71efdf1a8914ab1",
+      "kid": "01014ff94f10fea153343bce5136d9b6921342ae597f3c80f2009734c6daccfd98790a",
+      "uid": "2347937960904e4c53dfaa3d74849719",
+      "username": "nekkron"
+    },
+    "service": {
+      "hostname": "nekkron.site",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1743156932,
+  "expire_in": 157680000,
+  "prev": "06b294bb7e1098d6d8e0c6ee7f9c9a09df72a2b1af29b4535a9dc5a41f3b3d7d",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIgAnicrVJJaBRBFJ0YTUyIEFRwB2kXjITY1dXd1TWEKC5RQQNCcEMdqrqqJu3M
+dE+6O9EY5qAoKMGD4gIeRJO4x4OoIBjQiGIkinHDgx5UUFzQGMG4EbQ66EHwaF0+
+9f9777//+ddH5ceK8xZuXTeme8ZJmtfTdaAhlnzVeL1ZoR5rUuLNSooPBZ5mPAgT
+KYcpcUUFKtCFwLoAquAEGBDqkNrcANBkmJpYA1DXCDcwEtC2VKGpKkZQt01GbFsw
+bCGsEqVcEY6b5H7Wd9xQyiJiqZBRginnQlcpRDJYJrQR4IIJQCwMdEKBJNZ5QcSQ
+5igJeIXjyZz8JIbs/QP/n303DMlpUEcYImyqWNW5bhuQCUIgQ7qlYwRwBAy475IM
+l2iXp1K+5yq5ckUmGx2bR3uNBvkbUBE4IZfUrO+Fnu2lZaUuDLNBPGKGTdkIuonT
+xG+RBHVcJtcoGY3cDxzZIQ4k0g6dSBUgHQLDxFArV/jmrOPzhBMhDGRaqnxRH94Y
+7cakGtYpRRyo2GIms7hqm5wjgW1MVMwE0ohGAREaproBDYKZbRAdCEjlyEyJxqp3
+PSUOpU2SlJKBk3RJ2OBzJXft6rrhsbziWMGIYdF5xYqLSv8c3dm2wp8+uFg1/3b+
+uC13bmcutn4bbGvlhZcGFr87+7lAy60tW1LpHr7cR1+P/BG82dm7ATWPn391IFPb
+//pxvTa54sbuns6a9yrvmffy4drv9e2FBe3VnbVP+u5O/bp0dW7S7gedc76iD13+
+MoW9xRdaumcfHOzb8nb0qtzpliVd6aKPODO9dMrEO7NWuHVjZjwdkUl2V9b29pYs
+V/qr9kzY96W6leKq9WsSx9z4mZlGRSXY+Ox726f9x8d/uHVz1PmSvEUdNQPi/pVH
+JeVe+t7K56Ud/eesmupU04703LJphxeXpN+XXXqx8eiPsYcW7Np6xPzSMvlELH/b
+Xv9A0frtg3YPmdO+59Qv1gBA6A==
+=gApB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nekkron
+
+==================================================================
