@@ -1,0 +1,11 @@
+# Website availability monitor
+User-agent: UptimeRobot
+Allow: /
+
+# Allow Discord to generate link previews
+User-agent: Discordbot
+Allow: /
+
+# The Nuclear Option: Block everything else
+User-agent: *
+Disallow: /
