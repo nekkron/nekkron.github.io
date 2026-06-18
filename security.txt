@@ -1,0 +1,4 @@
+Contact: https://github.com/nekkron/nekkron.github.io/blob/main/SECURITY.md
+Expires: 2028-12-31T22:59:00.000Z
+Encryption: https://keybase.io/nekkron/pgp_keys.asc
+Preferred-Languages: en
