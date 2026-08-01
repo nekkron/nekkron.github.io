@@ -21,6 +21,8 @@
     })(window, document, "clarity", "script", "xuk54hi6lq");
     </script>
     <!-- End Trackers -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="stylesheet" href="termynal.css">
     <style>
       @media only screen and (max-width: 768px) {
         /* For mobile phones: */
@@ -45,16 +47,16 @@ body {
   font: 1.3rem Inconsolata, monospace;
   font-size: 1vw;
   text-shadow: 0 0 5px #C8C8C8;
-  &::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    max-width:100%;
-    width: 100vw;
-    height: 100vh;
-    pointer-events: none;
-  }
+}
+body::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
 }
 ::selection {
   background: #0080FF;
@@ -63,6 +65,7 @@ body {
 pre {
   margin: 0;
 }
+</style>
 </head>
 <body>
 <div id="termynal" data-termynal data-ty-delay="0">
@@ -98,8 +101,6 @@ pre {
 <span data-ty></span>
 <span data-ty="input" data-ty-cursor="▋" data-ty-typeDelay="250">exit</span>
 <span data-ty data-ty-delay="1650">disconnected.</span>
-<script src="termynal.js" data-termynal-container="#termynal">
-var termynal = new Termynal('#termynal', { startDelay: 600 })
-</script>
+<script src="termynal.js" data-termynal-container="#termynal"></script>
 </body>
 </html>
