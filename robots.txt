@@ -8,6 +8,7 @@ Allow: /
 
 # The Nuclear Option: Block everything else
 User-agent: *
+Disallow: /.github
 Disallow: /admin
 Disallow: /api
 Disallow: /search
@@ -18,4 +19,6 @@ Disallow: /422
 Disallow: /500
 Disallow: /503
 Disallow: /504
+Disallow: /test
+Disallow: /images
 Disallow: /
