@@ -1,3 +1,2 @@
-https://nekkron.github.io
-
-https://nekkron.site
+* https://nekkron.github.io
+* https://nekkron.site
